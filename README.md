@@ -1,3 +1,3 @@
 # EQMS
 
-Environmental Management System Quizz.
+Environmental Management System Quiz.
